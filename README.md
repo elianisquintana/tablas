@@ -1,0 +1,2 @@
+# tablas
+ejercicio de tabla
